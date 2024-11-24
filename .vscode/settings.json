@@ -1,0 +1,4 @@
+{
+    "jupyter.interactiveWindow.textEditor.executeSelection": true,
+    "python.analysis.autoFormatStrings": true
+}
