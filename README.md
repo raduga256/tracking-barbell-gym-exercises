@@ -30,6 +30,5 @@ training, in addition to aerobic exercises, is an important component of a balan
 
 Updated the local repository
 =======
-# tracking-barbell-gym-exercises
-Tracking Gym Exercises using Meta sensors for accelerometer and gyrometer
+
 >>>>>>> 8ab2d12b32bd5206b140bc6dd7cee5bc2ce0d497
